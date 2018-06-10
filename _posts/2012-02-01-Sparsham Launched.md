@@ -47,5 +47,9 @@ Its a unanimous decision to support education and we finally decided to make thi
 its own bylaws and regulations. Sayuj and Akhil were responsible for these activites and submitted a request to initate the process to the 
 Ernakulam register office.
 
+We soon got the registration approved and here is our registration certificate.
+
+
 [Kailash Satyarthi]:[https://en.wikipedia.org/wiki/Kailash_Satyarthi]
+[Registration_Certificate]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
  
