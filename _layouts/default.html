@@ -48,7 +48,7 @@ layout: compress
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="https://sparsham.github.io">{{ site.name }} Charitable Society</a>
+        <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}">{{ site.name }} Charitable Society</a>
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
@@ -56,14 +56,14 @@ layout: compress
           <li><a href="https://sparsham.github.io">Home</a></li>
         -->
           {% for page in site.pages %} {% if page.title %}
-          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+          <li><a href="{{ site.url }}{{ site.baseurl }}">{{ page.title }}</a></li>
           {% endif %} {% endfor %}
           <li><a href="https://feeds.feedburner.com/sparshamorg">RSS</a></li>
         </ul>
 	<div itemscope itemtype="https://schema.org/WebSite">
-	<meta itemprop="url" content="https://sparsham.github.io"/>
+	<meta itemprop="url" content="{{ site.url }}{{ site.baseurl }}"/>
         <form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" class="navbar-form navbar-right" method="GET" action="/search">
-	<meta itemprop="target" content="https://sparsham.github.io/search/?query={query}"/>
+	<meta itemprop="target" content="{{ site.url }}{{ site.baseurl }}/search/?query={query}"/>
 	<div class="form-group has-feedback">
 	<input type="text" itemprop="query-input" class="form-control" name="query" id="query" placeholder="Search..." />
 	<!--
