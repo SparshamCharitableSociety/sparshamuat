@@ -56,14 +56,14 @@ layout: compress
           <li><a href="https://sparsham.github.io">Home</a></li>
         -->
           {% for page in site.pages %} {% if page.title %}
-          <li><a href="{{ site.url }}{{ site.baseurl }}">{{ page.title }}</a></li>
+          <li><a href="{{ page.title }}">{{ page.title }}</a></li>
           {% endif %} {% endfor %}
           <li><a href="https://feeds.feedburner.com/sparshamorg">RSS</a></li>
         </ul>
 	<div itemscope itemtype="https://schema.org/WebSite">
 	<meta itemprop="url" content="{{ site.url }}{{ site.baseurl }}"/>
         <form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" class="navbar-form navbar-right" method="GET" action="/search">
-	<meta itemprop="target" content="{{ site.url }}{{ site.baseurl }}/search/?query={query}"/>
+	<meta itemprop="target" content="https://{{ site.url }}{{ site.baseurl }}/search/?query={query}"/>
 	<div class="form-group has-feedback">
 	<input type="text" itemprop="query-input" class="form-control" name="query" id="query" placeholder="Search..." />
 	<!--
