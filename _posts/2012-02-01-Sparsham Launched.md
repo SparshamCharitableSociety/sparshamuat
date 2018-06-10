@@ -48,7 +48,7 @@ its own bylaws and regulations. Sayuj and Akhil were responsible for these activ
 Ernakulam register office.
 
 We soon got the registration approved and here is our registration certificate.
-
+![Registartion_Certificate]
 
 [Kailash Satyarthi]:[https://en.wikipedia.org/wiki/Kailash_Satyarthi]
 [Registration_Certificate]: {{ site.fqurl }}/images/2012/sparshamregistercertificate.jpg "Registration Certificate"
