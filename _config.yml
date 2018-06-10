@@ -5,7 +5,7 @@ description: Sparsham Charitable Society.
 author : "SparshamOrg"
 url : "https://sparshamcharitablesociety.github.io/"
 baseurl : "sparshamuat/"
-fqurl : "https://sparshamcharitablesociety.github.io/sparshamuat/"
+fqurl : "https://sparshamcharitablesociety.github.io/sparshamuat"
 author_name : "Sparsham"
 author_bio : "Sparsham is a NGO based on Kerala." 
 twitter_username: sparshamorg
