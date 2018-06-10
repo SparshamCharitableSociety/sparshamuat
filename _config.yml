@@ -1,0 +1,42 @@
+# Site settings
+host : sparsham.github.io
+name : Sparsham
+description: Sparsham Charitable Society.
+author : "SparshamOrg"
+url : "https://sparsham.github.io"
+baseurl : "/"
+author_name : "Sparsham"
+author_bio : "Sparsham is a NGO based on Kerala." 
+twitter_username: sparshamorg
+facebook_username: SparshamCharitableSociety
+# Build settings
+encoding: UTF-8
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+highlighter: rouge
+permalink: /:title/
+paginate: 7
+showFeed : true
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+# SEO settings
+title: sparsham
+twitter:
+  username: SparshamCharitableSociety
+facebook:
+  app_id: 222755514444735
+  publisher: https://www.facebook.com/SparshamCharitableSociety
+  admins: https://www.facebook.com/kbvishnu
+social:
+  name : Anuraj
+  links: ["http://www.twitter.com/SparshamOrg","https://www.facebook.com/SparshamCharitableSociety","https://plus.google.com/SparshamCharitableSociety","https://in.linkedin.com/in/SparshamCharitableSociety","https://www.youtube.com/channel/UC98FbpEB4PvgOYq1GKCtOgQ"]
+google_site_verification: gfDtT8jd3OHpmGe2VJwYDE7G9-xwmpbQVVugKEU-Kp4
