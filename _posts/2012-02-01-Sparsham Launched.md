@@ -2,16 +2,13 @@
 layout: post
 title: "Sparsham Web site relaunched"
 subtitle: "New website for Sparsham"
-date: 2018-06-04 04:53
+date: 2012-02-01 22:59
 author: "Sparsham"
 comments: true
-categories: [Sparsham,  Website, Facelift 2018]
-tags: [Sparsham, Website, Facelift 2018]
+categories: [Sparsham]
+tags: [Sparsham]
 header-img: ""
+
 ---
-We are very excited to inform you about the relaunched Sparsham website. There were some technical issue with the previous hosting environment
-and our technical team is working on migration. The contents from the old site, will be migrated to the new environment with in a short span.
-
-Thanks,
-Sparsham EC.
-
+**A group of friends** with similar thoughts gathered an decided to work together by sharing their time, money and dedication to join with millions
+for a better world, a better life situation for the new generations. We had long discussions about the various level of 
