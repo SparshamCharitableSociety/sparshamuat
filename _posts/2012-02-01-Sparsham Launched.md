@@ -47,5 +47,5 @@ Its a unanimous decision to support education and we finally decided to make thi
 its own bylaws and regulations. Sayuj and Akhil were responsible for these activites and submitted a request to initate the process to the 
 Ernakulam register office.
 
-[Kailash Satyarthi][https://en.wikipedia.org/wiki/Kailash_Satyarthi]
+[Kailash Satyarthi]:[https://en.wikipedia.org/wiki/Kailash_Satyarthi]
  
