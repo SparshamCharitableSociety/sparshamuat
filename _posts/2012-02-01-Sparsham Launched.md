@@ -51,5 +51,5 @@ We soon got the registration approved and here is our registration certificate.
 
 
 [Kailash Satyarthi]:[https://en.wikipedia.org/wiki/Kailash_Satyarthi]
-[Registration_Certificate]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[Registration_Certificate]: {{ site.fqurl }}/images/2012/sparshamregistercertificate.jpg "Registration Certificate"
  
