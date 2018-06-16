@@ -41,3 +41,5 @@ social:
   name : Anuraj
   links: ["http://www.twitter.com/SparshamOrg","https://www.facebook.com/SparshamCharitableSociety","https://plus.google.com/SparshamCharitableSociety","https://in.linkedin.com/in/SparshamCharitableSociety","https://www.youtube.com/channel/UC98FbpEB4PvgOYq1GKCtOgQ"]
 google_site_verification: gfDtT8jd3OHpmGe2VJwYDE7G9-xwmpbQVVugKEU-Kp4
+
+theme: jekyll-theme-minimal
